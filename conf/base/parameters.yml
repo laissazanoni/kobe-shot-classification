@@ -1,0 +1,14 @@
+# prepare data
+shot_type: '3PT Field Goal'
+
+# Train-Test split
+test_size: 0.2
+test_split_random_state: 123
+target: 'shot_made_flag'
+
+# Logistic Regression Params
+n_folds: 10
+param_grid:
+  solver: ['lbfgs', 'liblinear']
+  penalty: ['l1', 'l2']
+  C: [1, 2, 10]

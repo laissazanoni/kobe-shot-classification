@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lalaz/Documents/Cursos/pos-graduacao-infnet-ai-ml/8-engenharia-machine-learning/kobe-shot-classification/mlruns/205106913069132122/b6787e87bc524aa2912f8e00b21057a0/artifacts
+end_time: 1681666545093
+entry_point_name: ''
+experiment_id: '205106913069132122'
+lifecycle_stage: active
+run_id: b6787e87bc524aa2912f8e00b21057a0
+run_name: polite-shad-585
+run_uuid: b6787e87bc524aa2912f8e00b21057a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681666523127
+status: 3
+tags: []
+user_id: lalaz
